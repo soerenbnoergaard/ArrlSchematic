@@ -3,7 +3,7 @@ This library is traced from the image found [here](http://neazoi.com/arrlschem.h
 
 It is scaled to be used with the standard grid in Inkscape. For connecting the components, a line width of 0.9 px seems appropriate.
 
-Some edges are a bit rounded which gives a bit of a raw/hand drawn look.
+Some edges are a bit rounded. Resistors, capacitors, and inductors are modified to better fit the standard grid.
 
 ## Example
 ![Amplifier](img/amplifier.jpg)
