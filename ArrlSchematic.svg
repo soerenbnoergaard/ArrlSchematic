@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="436.9538"
-     inkscape:cy="932.24702"
+     inkscape:zoom="16"
+     inkscape:cx="677.92643"
+     inkscape:cy="964.53298"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -33,7 +33,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-to-guides="true">
     <inkscape:grid
        type="xygrid"
@@ -5525,28 +5525,29 @@
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       id="g13453"
-       transform="translate(1.7716577,3.4045888e-6)">
+       id="g10593">
       <path
          inkscape:connector-curvature="0"
          id="path13413"
-         d="m 682.08661,102.75588 0,-9.456199"
+         d="m 683.85827,102.75588 0,-9.456196"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
+         sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path13415"
-         d="m 682.1875,81.362181 0,12.40625"
+         d="m 683.95916,81.362184 -0.0312,12.34375"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <path
+         sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path13417"
-         d="m 689.96875,81.362181 -7.84375,12.5625"
+         d="m 691.49041,81.362184 -7.5625,12.375"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path13419"
-         d="m 674.1875,81.393431 8,12.75"
+         d="m 676.33416,81.362184 7.59375,12.375"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <text
