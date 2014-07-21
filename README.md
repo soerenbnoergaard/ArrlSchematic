@@ -1,6 +1,8 @@
 # ARRL Schematic Library for Inkscape
 This library is traced from the image found [here](http://neazoi.com/arrlschem.htm "How to draw ARRL-style schematics by SV3ORA")
 
+I have included a few symbols of my own: Sources, etc.
+
 ## Status
 I am currently redrawing the most important symbols to fit the grid exactly. These are contained in the main file: [ArrlSchematic.svg](ArrlSchematic.svg).
 
