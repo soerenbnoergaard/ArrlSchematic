@@ -1,5 +1,5 @@
 # ARRL Schematic Library for Inkscape
-This library is traced from the image found [here](http://neazoi.com/arrlschem.htm "How to draw ARRL-style schematics by SV3ORA")
+This library is based on the symbols used by ARRL in their books.
 
 I have included a few symbols of my own: Sources, etc.
 
