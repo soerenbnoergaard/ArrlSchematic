@@ -7,7 +7,7 @@ I have included a few symbols of my own: Sources, etc.
 I am currently redrawing the most important symbols to fit the grid exactly. These are contained in the main file: [ArrlSchematic.svg](ArrlSchematic.svg).
 
 Currently, there are 3 files
-- [ArrlSchematic.svg](ArrlSchematic.svg): Complete redraw that fits the inkscape grid (not yet complete).
+- [ArrlSchematic.svg](ArrlSchematic.svg): Complete redraw that fits the inkscape 1mm x 1mm grid (not yet complete).
 - [600lib.svg](600lib.svg): Traced image modified to fit the grid a bit better.
 - [600lib_noredraw.svg](600lib_noredraw.svg): Original traced image.
 
